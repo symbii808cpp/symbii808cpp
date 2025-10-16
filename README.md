@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Mpilo
 - 👀 I’m interested in C++ Development and Data Science/ML
 - 🌱 I’m currently learning Python for Data Science and Machine Learning
-- 💞️ I’m looking to collaborate on C++ Projects
+- 💞️ I’m looking to collaborate on C++ and Data Science Projects
 - 📫 How to reach me: mpilomotheo@gmail.com
 
 <!---
